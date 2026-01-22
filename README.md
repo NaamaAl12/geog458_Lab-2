@@ -1,4 +1,4 @@
-# GEOG 458 – Lab 2: YouTube Word Cloud Analysis
+# GEOG 458 - Lab 2: YouTube Word Cloud Analysis
 
 ## Topic Overview
 This project explores how YouTube users discuss two NFL teams, the **Seattle Seahawks** and the **San Francisco 49ers**, by collecting and analyzing YouTube search results using automated web scripting. The goal is to understand differences and similarities in online discourse surrounding both these teams through word cloud visualization.
