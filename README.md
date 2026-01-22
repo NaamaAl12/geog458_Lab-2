@@ -12,7 +12,7 @@ Data was collected using the provided `youtube.ipynb` script on Google Colab. Tw
 For each search term, YouTube search result pages were crawled, and metadata such as video titles and short descriptions were extracted and saved as CSV files.
 
 The resulting datasets are available here:
-- [Seahawks CSV](assets/seahawks_.csv)
+- [Seahawks CSV](assests/seahawks_.csv)
 - [49ers CSV](assets/49ers_.csv)
 
 ## Motivation for Comparison
