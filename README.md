@@ -23,14 +23,14 @@ The Seahawks and 49ers are long-standing rivals within the NFC West (since 2002)
 ### Seattle Seahawks Word Cloud
 ![Seahawks Word Cloud](img/wordcloud_seahawks.png)
 
-The Seahawks word cloud emphasizes terms such as **Seattle**, **NFL**, **Championship**, **Player**, **Wilson**, and **Field**. This suggests a strong focus on team identity, past success, and individual player performance. Emotional and celebratory language appears frequently, which indicates strong fan engagement.
+The Seahawks word cloud emphasizes terms such as **Seattle**, **NFL**, **Championship**, **Player**, **Wilson**, and **Field**. This suggests a strong focus on team identity, past success, and individual player performance. Also, emotional and celebratory language appears frequently, which indicates strong fan engagement.
 
 ### San Francisco 49ers Word Cloud
 ![49ers Word Cloud](img/wordcloud_49ers.png)
 
 The 49ers word cloud prominently features **Niners**, **San Francisco**, **NFL**, **Coach**, **Offense**, and **Draft**. Compared to the Seahawks, this cloud appears more strategy-oriented, with frequent references to coaching decisions, roster changes, and team rebuilding situations.
 
-*Note:* In the 49ers word cloud, the term “Ers” originally appeared due to tokenization of the team name “49ers.” This label was manually changed to “Niners” in the visualization to improve clarity and avoid confusion for people looking at the word cloud.
+*Note:* In the 49ers word cloud, the term “Ers” originally appeared due to tokenization of the team name “49ers”. This label was manually changed to “Niners” in the visualization to improve clarity and avoid confusion for people looking at the word cloud.
 
 ## Comparison and Discussion
 Both word clouds share common football-related terms such as **NFL**, **Team**, and **Game**, reflecting how both teams are part of the same league. However, the Seahawks cloud leans more toward emotional and legacy-based language, while the 49ers cloud highlights organizational and tactical discussion.
